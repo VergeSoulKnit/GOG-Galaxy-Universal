@@ -1,0 +1,23 @@
+{
+  "repo": "gog-galaxy-universal",
+  "product": "GOG Galaxy Universal",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "android-emulator",
+  "topics": [
+    "gog-galaxy",
+    "gog-windows",
+    "android-emulator-desktop",
+    "how-to-install-gog",
+    "gog-galaxy-desktop-package",
+    "gog-workspace",
+    "gog-galaxy-pro-tools",
+    "gog-suite",
+    "zentool-gog",
+    "gog-galaxy-tool-9"
+  ],
+  "site": "zentool.art"
+}
